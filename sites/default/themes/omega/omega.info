@@ -1,0 +1,11 @@
+name = Omega
+description = Omega
+screenshot = screenshot.png
+engine = phptemplate
+core = 7.x
+; Information added by drupal.org packaging script on 2012-12-11
+version = "7.x-4.0-alpha2"
+core = "7.x"
+project = "omega"
+datestamp = "1355231015"
+
